@@ -1,0 +1,15 @@
+D:\Coding\HelloGui\HelloGui\bin\Debug\HelloGui.exe.config
+D:\Coding\HelloGui\HelloGui\bin\Debug\HelloGui.exe
+D:\Coding\HelloGui\HelloGui\bin\Debug\HelloGui.pdb
+D:\Coding\HelloGui\HelloGui\obj\Debug\HelloGui.csprojAssemblyReference.cache
+D:\Coding\HelloGui\HelloGui\obj\Debug\MainWindow.g.cs
+D:\Coding\HelloGui\HelloGui\obj\Debug\App.g.cs
+D:\Coding\HelloGui\HelloGui\obj\Debug\HelloGui_MarkupCompile.cache
+D:\Coding\HelloGui\HelloGui\obj\Debug\HelloGui_MarkupCompile.lref
+D:\Coding\HelloGui\HelloGui\obj\Debug\MainWindow.baml
+D:\Coding\HelloGui\HelloGui\obj\Debug\HelloGui.g.resources
+D:\Coding\HelloGui\HelloGui\obj\Debug\HelloGui.Properties.Resources.resources
+D:\Coding\HelloGui\HelloGui\obj\Debug\HelloGui.csproj.GenerateResource.cache
+D:\Coding\HelloGui\HelloGui\obj\Debug\HelloGui.csproj.CoreCompileInputs.cache
+D:\Coding\HelloGui\HelloGui\obj\Debug\HelloGui.exe
+D:\Coding\HelloGui\HelloGui\obj\Debug\HelloGui.pdb
